@@ -1,0 +1,1 @@
+Created frontend using Vite (React + Javascript)
